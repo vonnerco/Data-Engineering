@@ -1,4 +1,4 @@
-# 🏗️ Data Engineering Portfolio
+# 🏗️ Data Engineering 
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-aws-expertise)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#-azure-solutions)
@@ -12,7 +12,7 @@ Enterprise multi-cloud data engineering solutions delivering 850x performance im
 
 ## 📋 Repository Overview
 
-### 1. [Data Engineer Consulting.md](./Data%20Engineer%20Consulting.md)
+### 1. [Data Engineer.md](./Data%20Engineer%20Consulting.md)
 **🚀 Internal Practice Data Engineering Consultant**
 - **10+ years** enterprise data platform expertise for Fortune 500 internal practices
 - **1.2PB** data processing capability across multi-cloud infrastructure
@@ -104,15 +104,6 @@ Streaming Analytics Stack:
 | 🛡️ **Fraud Detection** | $2.8B daily volume | Real-time ML scoring | **99.97% accuracy** |
 | ⚖️ **Compliance** | 12 jurisdictions | Automated audit trails | **100% success** |
 | 💰 **Cost Optimization** | $8.2M cloud spend | Intelligent allocation | **52% reduction** |
-
----
-
-## 🎯 Engagement Options
-
-| Option | Model | Pricing | $ |
-|:---:|:---:|:---:|:---:|
-| 🔄 **Data Engineering Consulting** | Ad Hoc Expert Guidance | Project Scope | 30 mins $80 / 45 mins $120 / 1 hour $160 |
-| 🚀 **Build & Deploy** | Full Platform Implementation | Milestone-based | Platform 1 starts at $1,000 |
 
 ---
 
