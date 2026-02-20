@@ -176,4 +176,4 @@ Great Expectations → 99.7% data quality accuracy
 
 ---
 
-*Transforming Enterprise AI through Secure, Scalable, and Human-Centric AI Engineering Solutions.*
+*Transforming Enterprise Data through Secure, Scalable, and proven Data Engineering Solutions.*
