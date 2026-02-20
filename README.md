@@ -1,4 +1,4 @@
-# 🏗️ Data Engineering Consulting Portfolio
+# 🏗️ Data Engineering Portfolio
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-aws-expertise)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#-azure-solutions)
